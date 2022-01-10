@@ -3,7 +3,7 @@
 //******************************
 const int MaxSize = 15;
 typedef  int DataType;
-
+//NKHOSIKHONA
 class List
 {
 
